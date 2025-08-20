@@ -1,0 +1,4 @@
+config_global_settings.php
+vendor/
+vendor84/
+composer.lock
